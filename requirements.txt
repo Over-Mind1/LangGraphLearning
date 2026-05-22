@@ -1,0 +1,5 @@
+langchain-google-genai==4.2.2
+langgraph==1.2.1
+python-dotenv==1.2.2
+pydantic==2.13.4
+
